@@ -1,0 +1,5 @@
+name = drupalee_theme
+description = drupalee_theme
+package = Core
+core = 7.x
+base theme = omega
